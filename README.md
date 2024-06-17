@@ -23,3 +23,11 @@ Even though the basic and efficient approaches have the same time complexity i.e
 O(m * n), where m is the size of the first word and n is the size of the second word, the
 efficient approach takes a little longer than the basic approach because it requires more
 computations, making it slightly less efficient in terms of time
+
+![image](https://github.com/smdp2000/DNA-Sequence-Alignment/assets/40947644/5116b242-18b2-4b0e-b127-be812d8a7320)
+
+![image](https://github.com/smdp2000/DNA-Sequence-Alignment/assets/40947644/67fd29e0-a240-4a9c-8caa-8fdd2da57f51)
+
+![image](https://github.com/smdp2000/DNA-Sequence-Alignment/assets/40947644/20e467c4-7c50-47ff-b47f-07d2ae8bec4a)
+
+
